@@ -6,7 +6,7 @@
 | **Logotype**  |  https://github.com/anoma/namada-docs/blob/master/packages/docs/public/images/namada-logo.svg |
 | **Short project description (1 sentence)** | NAMADA is a layer 1 blockchain solution that redefines asset-agnostic, multichain privacy. |
 | **Launch date** | TBD |
-| **Is it open source?** | YES |
+| **Is it open source?** | Yes |
 | **Website**  | https://namada.net/ |
 | **Github**  | https://github.com/anoma/namada |
 
@@ -59,24 +59,24 @@
 **Privacy**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Is it peer-to-peer**  | YES | 
-| **Complience**  | NO |
-| **KYC**  | NO |
-| **Privacy policy** | - |
-| **Collected data**  | NO |
-| **Data sharing** | NO |
-| **Sign-in requirments** | NO |
-| **Identity integrations** | NO |
+| **Is it peer-to-peer**  | Yes | 
+| **Complience**  | No |
+| **KYC**  | No |
+| **Privacy policy** | No |
+| **Collected data**  | No |
+| **Data sharing** | No |
+| **Sign-in requirments** | No |
+| **Identity integrations** | No |
 
 **Security**
 | Request  | Data point | 
 | ------------- | ------------- |
-| **Asset custody** | specify | 
+| **Asset custody** | Self-custody | 
 | **Upgradability**  | Gov upgrade |
 | **Social dependency**  | Team and CEO |
 | **Third-parties dependency** | No |
 | **Technical dependency** | CometBFT, ZK  |
-| **Have you been audited by a third-party** | YES |
+| **Have you been audited by a third-party** | Yes |
 | **What company audited** | inference |
 | **When you were audited** | 21 June 2022 |
 | **Add links to the audits** | https://github.com/anoma/namada/blob/main/audits/report-anoma-inference.pdf |
