@@ -40,7 +40,7 @@
 | ------------- | ------------- |
 | **How are you funded**  | Mixed | 
 | **List VCs backing you**  | Delphi Digital, Dialectic, KR1, Spartan, NGC, MH Ventures, Bixin Ventures, No Limit, WAGMI, Plassa, Perridon Ventures, Anagram,  Factor |
-| **List VCs round**  | Series A, B,C (TODO: seed, pre-seed? ) | 
+| **List VCs round**  | Seed, Series: A,C | 
 | **Raised money** | https://www.crunchbase.com/organization/anoma | 
 
 **Github**
